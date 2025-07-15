@@ -24,8 +24,9 @@ export default function Home() {
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
           Hi, I'm Abdallah Massri
         </h1>
-        <p className="text-xl text-gray-600 mb-6">
-          Junior Software Engineer | Java | Python | React | DevOps | AWS
+        <p className="text-xl text-gray-700 mb-4">
+          Software Engineer specializing in full-stack development with Java,
+          Spring Boot, React & AWS.
         </p>
       </motion.div>
     </section>
